@@ -1,0 +1,15 @@
+{
+    "name": "dylan/test",
+    "description": "这是一个测试composer init项目",
+    "type": "library",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "Dylan Zhang",
+            "email": "13487091697@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
